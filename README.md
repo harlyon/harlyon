@@ -1,35 +1,19 @@
-### Hi there 👋
+<img marginTop="0" align="right" src="https://png.pngtree.com/png-vector/20210118/ourmid/pngtree-flat-design-concept-of-programmers-at-work-mobile-app-software-development-png-image_2764955.jpg" alt="Illustration" width=350px height=300px/>
 
-<!--
-**harlyon/harlyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Harrison 👋
 
-Here are some ideas to get you started:
+I’m a JS developer and piano player. I currently work as a Frontend Engineer. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📱 :bulb: I'm an optimist, visionary always thinking about innovative ways to contribute to the society in good ways 😊.
+- 🤓 I'm a frontend developer with an eye for design.
+- 💬  Ask me about JS development, Typescript, NodeJS.
+- 🏏  Fun fact: I love cricket and I hope to one day join an action cricket club!
 
-# Hi there, welcome to my Github space :rocket:
+---
 
-[![Years Badge](https://badges.pufler.dev/years/harlyon)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/harlyon)](https://badges.pufler.dev)
-[![Visits Badge](https://badges.pufler.dev/visits/harlyon/harlyon)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/gists/harlyon)](https://badges.pufler.dev)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harrypeter/)](https://www.linkedin.com/in/harrypeter/)
-<br>
-<b>I'm a frontend developer with an eye for design!</b>
-<br>
-<br>
-🔭 I’m currently working on something in secret 
-<br>🌱  I love developing visual and interactive applications integrated with data
-<br>:bulb: I'm an optimist, visionary always thinking about innovative ways to contribute to the society in good ways
-<br>
-<br>
-![github stats](https://github-readme-stats.vercel.app/api?username=harlyon&show_icons=true&theme=default)
-<br>
+**Now Playing** on Spotify
+
+<a href="https://now-playing-profile-pied.vercel.app/now-playing?open">
+    <img src="https://now-playing-profile-pied.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
+</a>
+
