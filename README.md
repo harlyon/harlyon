@@ -7,7 +7,7 @@ I’m a JS developer and piano player. I currently work as a Frontend Engineer.
 - 📱 :bulb: I'm an optimist, visionary always thinking about innovative ways to contribute to the society in good ways 😊.
 - 🤓 I'm a frontend developer with an eye for design.
 - 💬  Ask me about JS development, Typescript, NodeJS.
-- 🏏  Fun fact: I love cricket and I hope to one day join an action cricket club!
+- 🏏  Fun fact: I am a pianist. I am a fan of Jazz , Gospel Rythms!
 
 ---
 
