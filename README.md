@@ -13,7 +13,7 @@ I’m a JS developer and piano player. I currently work as a Frontend Engineer.
 
 ---
 
-###### ✨ My Stats
+<!-- ###### ✨ My Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@harrison1&layout=compact" />
 </a>
@@ -22,4 +22,4 @@ I’m a JS developer and piano player. I currently work as a Frontend Engineer.
 </a>
 
 <br /><br />
-
+ -->
