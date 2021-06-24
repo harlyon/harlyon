@@ -5,7 +5,7 @@
 I’m a JS developer and piano player. I currently work as a Frontend Engineer. 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@harlyon&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@harrison1&layout=compact" />
 </a>
 
 - 📱 :bulb: I'm an optimist, visionary always thinking about innovative ways to contribute to the society in good ways 😊.
