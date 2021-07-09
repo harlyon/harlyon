@@ -52,7 +52,6 @@ I’m a JS developer and piano player. I currently work as a Frontend Engineer.
 ![Nodejs](https://img.shields.io/badge/-Nodejs-darkblue?style=flat&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-blue?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-blue?style=flat&logo=bootstrap)
 
 
 
