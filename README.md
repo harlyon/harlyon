@@ -32,7 +32,7 @@ I’m a JS developer and piano player. I currently work as a Frontend Engineer.
 ![Profile Views](https://komarev.com/ghpvc/?username=harlyon&style=plastic&color=blue)
 
 
-- 🔭 I’m currently working as Frontend Developer
+- 🔭 I’m a Frontend Developer
 - 💬 Ask me about Javascript, React,
 - 🏏  Fun fact: I am a pianist. I am a fan of Jazz , Gospel Rythms!
 
