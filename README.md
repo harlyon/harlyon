@@ -38,11 +38,11 @@ I’m a JS developer and piano player. I currently work as a Frontend Engineer.
 
 <div style="margin-bottom: 40px"></div>
 
-## Stats 📊
+<!-- ## Stats 📊
 
 |Github Statistics|Streaks|Languages|
 |-|-|-|
-|[![Harry's github stats](https://github-readme-stats.vercel.app/api?username=harlyon&show_icons=true&theme=dark&hide_title=true)](https://github.com/harlyon)|![descholar-ceo](https://github-readme-streak-stats.herokuapp.com/?user=harlyon&theme=dark)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harlyon&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/harlyon)
+|[![Harry's github stats](https://github-readme-stats.vercel.app/api?username=harlyon&show_icons=true&theme=dark&hide_title=true)](https://github.com/harlyon)|![descholar-ceo](https://github-readme-streak-stats.herokuapp.com/?user=harlyon&theme=dark)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harlyon&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/harlyon) -->
 
 ## Technologies ⚡
 
