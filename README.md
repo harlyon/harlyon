@@ -8,7 +8,7 @@ I’m a JS developer and piano player. I currently work as a Frontend Engineer.
 
 - 📱 :bulb: I'm an optimist, visionary always thinking about innovative ways to contribute to the society in good ways 😊.
 - 🤓 I'm a frontend developer with an eye for design.
-- 💬  Ask me about JS development, Typescript, NodeJS.
+- 💬  Ask me about JS development, Typescript, NodeJS, Machine Learning.
 - 🏏  Fun fact: I am a pianist. I am a fan of Jazz , Gospel Rythms!
 
 ---
@@ -33,7 +33,7 @@ I’m a JS developer and piano player. I currently work as a Frontend Engineer.
 
 
 - 🔭 I’m a Frontend Developer
-- 💬 Ask me about Javascript, React,
+- 💬 Ask me about Javascript, React, Machine Learning, AI,
 - 🏏  Fun fact: I am a pianist. I am a fan of Jazz , Gospel Rythms!
 
 <div style="margin-bottom: 40px"></div>
@@ -78,6 +78,11 @@ I’m a JS developer and piano player. I currently work as a Frontend Engineer.
 ![Nodejs](https://img.shields.io/badge/-Nodejs-darkblue?style=flat&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-blue?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
+![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat&logo=jupyter)
+![Scikit-learn](https://img.shields.io/badge/-scikitlearn-black?style=flat&logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/-pandas-black?style=flat&logo=pandas)
+![Numpy](https://img.shields.io/badge/-numpy-black?style=flat&logo=numpy)
+![Python](https://img.shields.io/badge/-python-black?style=flat&logo=python)
 
 
 
