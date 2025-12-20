@@ -1,4 +1,4 @@
-<!-- <img marginTop="0" align="right" src="https://png.pngtree.com/png-vector/20210118/ourmid/pngtree-flat-design-concept-of-programmers-at-work-mobile-app-software-development-png-image_2764955.jpg" alt="Illustration" width=350px height=300px/>
+ <img marginTop="0" align="right" src="https://png.pngtree.com/png-vector/20210118/ourmid/pngtree-flat-design-concept-of-programmers-at-work-mobile-app-software-development-png-image_2764955.jpg" alt="Illustration" width=350px height=300px/>
 
 ### Hi, I'm Harrison 👋
 
