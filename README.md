@@ -2,7 +2,7 @@
 
 ### Hi, I'm Harrison 👋
 
-I’m a JS developer and piano player. I currently work as a Frontend Engineer. 
+I currently work as a Frontend Engineer. 
 
 
 
